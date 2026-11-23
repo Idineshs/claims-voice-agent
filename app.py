@@ -99,3 +99,5 @@ with col2:
         
         st.markdown("### All Logged Claims (English Table)")
         st.dataframe(st.session_state.claims_queue, use_container_width=True)
+
+# --- 3. add on  - under development ---
